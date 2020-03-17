@@ -1,0 +1,6 @@
+﻿  RRT.cpp
+c:\index\rrt_test\rrt_test\rrt.cpp(23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\index\rrt_test\rrt_test\rrt.cpp(48): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  RRT_test.cpp
+  Generating Code...
+  RRT_test.vcxproj -> C:\index\RRT_test\x64\Debug\RRT_test.exe
